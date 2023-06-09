@@ -31,4 +31,4 @@ class Trig():
     def __repr__(self):
         return self.name
     def draw(self):
-        return "/\ \n\/ \ \n /  \ \n ---"
+        return "   /\ \n  /  \ \n /    \ \n ------"
