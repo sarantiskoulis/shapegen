@@ -15,7 +15,7 @@ class Cube():
     def __repr__(self):
         return self.name
     def draw(self):
-        return '/=/'
+        return '|---|\n|   |\n|___|'
 
 class Line():
     def __init__(self):
